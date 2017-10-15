@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.zopa.rate.caluclations.model;
+package com.zopa.quote.caluclations.model;
 
 import java.math.BigInteger;
 

@@ -1,12 +1,12 @@
-package com.zopa.rate.caluclations.test;
+package com.zopa.quote.caluclations.test;
 
 import java.util.List;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.zopa.rate.caluclations.model.Offer;
-import com.zopa.rate.caluclations.utils.CSVParser;
+import com.zopa.quote.caluclations.model.Offer;
+import com.zopa.quote.caluclations.utils.CSVParser;
 
 
 /**

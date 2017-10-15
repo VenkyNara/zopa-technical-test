@@ -1,13 +1,13 @@
 /**
  * 
  */
-package com.zopa.rate.caluclations.api;
+package com.zopa.quote.caluclations.api;
 
 import java.math.BigInteger;
 import java.util.List;
 
-import com.zopa.rate.caluclations.model.Offer;
-import com.zopa.rate.caluclations.model.QuoteCalculationRs;
+import com.zopa.quote.caluclations.model.Offer;
+import com.zopa.quote.caluclations.model.QuoteCalculationRs;
 
 /**
  * @author venky

@@ -1,4 +1,4 @@
-package com.zopa.rate.caluclations.client;
+package com.zopa.quote.caluclations.client;
 
 /**
  * Hello world!

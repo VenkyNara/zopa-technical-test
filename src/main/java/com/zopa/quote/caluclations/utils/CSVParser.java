@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.zopa.rate.caluclations.utils;
+package com.zopa.quote.caluclations.utils;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.opencsv.CSVReader;
-import com.zopa.rate.caluclations.model.Offer;
+import com.zopa.quote.caluclations.model.Offer;
 
 /**
  * @author venky

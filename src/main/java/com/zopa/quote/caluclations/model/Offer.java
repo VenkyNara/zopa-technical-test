@@ -1,4 +1,4 @@
-package com.zopa.rate.caluclations.model;
+package com.zopa.quote.caluclations.model;
 
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang.builder.StandardToStringStyle;
